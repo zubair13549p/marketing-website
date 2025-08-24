@@ -132,4 +132,5 @@ const terms = [
   { word: "Up Strategy", definition: "Encouraging customers to move towards higher-value or premium products to increase revenue." },
   { word: "Down Strategy", definition: "Offering customers lower-priced alternatives to retain them when they are unwilling to purchase premium products." },
   { word: "Cross Selling", definition: "Selling related or complementary products to existing customers to maximize value." }
+  { word: "AIDA", definition: "Attention, Interest, Desire, Action — a classic model describing the stages a consumer goes through before purchase." },
 ];
